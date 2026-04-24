@@ -131,6 +131,3 @@ class BigQueryTool:
 
 
 bigquery_tool = BigQueryTool()
-
-
-bigquery_tool = BigQueryTool()
