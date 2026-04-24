@@ -1,0 +1,42 @@
+# Environment variables (secretos)
+.env
+.env.local
+.env.*.local
+
+# Google Cloud credentials
+credential_google.json
+service-account.json
+
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+.pytest_cache/
+*.egg
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# macOS
+.AppleDouble
+.LSOverride
